@@ -3,3 +3,5 @@ Esta es la historia de Anguinator
 Anguinator tiene 31 años y nacio en Mexico 
 
 Hoy es 02/08/23
+
+Estamos aprendiendo a usar GIT 
