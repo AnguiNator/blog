@@ -1,2 +1,2 @@
 # blog
-Repositorio para hacer puebas 
+Repositorio para hacer pruebas 
